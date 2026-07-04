@@ -1,6 +1,6 @@
-# python-third
+# FinMood/Stock-Market-Sentiment-Analysis-System
 python's project
-# {專題名稱}
+# {FinMood/Stock-Market-Sentiment-Analysis-System 股票市場情緒分析系}
 
 > 一句話描述：為 {誰} 解決 {什麼} 問題。
 
